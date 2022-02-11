@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Técnico em informática pela Escola Técnica Vasco Antônio Venchiarutti
-Cursando Sistemas de Informação na USP - Escola de Artes Ciências e Humanidades
-18 anos
-São Paulo/Itupeva
+- Técnico em informática pela Escola Técnica Vasco Antônio Venchiarutti
+- Cursando Sistemas de Informação na USP - Escola de Artes Ciências e Humanidades
+- 18 anos
+- São Paulo/Itupeva
